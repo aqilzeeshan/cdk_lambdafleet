@@ -1,0 +1,9 @@
+{
+	"name": "lambda-node-example",
+	"version": "1.0.0",
+	"main": "handler.js",
+	"license": "MIT",
+	"dependencies": {
+		"faker": "^5.4.0"
+	}
+}
